@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "K.W. Wong"
+  name             : "Kin Wing Wong"
   avatar           : "profile.png"
   bio              : "PhD. Student at KTH Royal Institute of Technology, Sweden"
-  location         : "Sweden"
+  location         : "Stocholm, Sweden"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ylUMTHMAAAAJ&hl=en&inst=3006122349567257957"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Kin-Wing-Wong"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kwwong333"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,10 +106,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
