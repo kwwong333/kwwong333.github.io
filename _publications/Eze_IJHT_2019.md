@@ -5,7 +5,7 @@ permalink: /publication/Eze_IJHT_2019
 excerpt: 'The paper investigated the effectivness of vortex generator in the mitigation of HTD phenomenon in supercritical water upward flow using ANSYS FLUENT, and discussed the mechanism behind the mitigation using turbulent kinetic energy and radial velocity distribution.'
 date: 2019-03-25
 venue: 'International Journal of Heat and Mass Transfer'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
