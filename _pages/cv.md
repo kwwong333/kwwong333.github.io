@@ -15,7 +15,7 @@ BEng(Hons). in Nuclear and Risk Engineering, City University of Hong Kong, Hong 
 
 MSc. in Nuclear Engineering, EPFL and ETH Zürich, Switzerland, 2019
 
-Ph.D in Physics (Nuclear Engineering), KTH Royal Institute of Technology, 2026 (expected)
+Ph.D in Physics (Nuclear Engineering), KTH Royal Institute of Technology, Sweden, 2026 (expected)
 
 Work experience
 ======
