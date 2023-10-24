@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kin Wing Wong's personal websites"
+title: "Hello"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
-======
 I am a Ph.D. student at the Division of Nuclear Engineering at KTH with Dmitry Grishchenko and Pavel Kudinov.
 
 My research focuses on the modelling of flow accelerated corrosion and erosion (FACE) problem in heavy liquid metals (HLMs) within the SUNRISE (Sustainable Nuclear Energy Research In Sweden) project.
