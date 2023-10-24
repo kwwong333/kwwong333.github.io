@@ -16,7 +16,7 @@ This is published in the special issue of the Advances in Thermal Hydraulics (AT
 
 <img width="708" alt="image" src="https://github.com/kwwong333/kwwong333.github.io/assets/23471398/69a5d9d4-e871-4bc5-b300-58ab70888410">
 
-[Download paper here](http://academicpages.github.io/files/Wong_NT_2021.pdf)
+[Download paper here](http://kwwong333.github.io/files/Wong_NT_2021.pdf)
 
 
 
