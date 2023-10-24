@@ -34,7 +34,7 @@ Work experience
 Journal Publications
 ======
 1.  Kin Wing Wong, Ignas Mickus, Nathaniel Torkelson, Sumathi Vasudevan, Haipeng Li, Dmitry Grishchenko, Pavel Kudinov. Hydrodynamic Design of the Separate Effect Test Facility for Flow-Accelerated Corrosion and Erosion Phenomenon (SEFACE) in Liquid Lead, Submitted.
-2.  K.W. Wong L. Bures and K. Mikityuk (2021). Interface Tracking Investigation of the Sliding Bubbles Effects on Heat Transfer in the Laminar Regime, Nuclear Technology, 208:8, 1266-1278.
+2.  K.W. Wong, L. Bures and K. Mikityuk (2021). Interface Tracking Investigation of the Sliding Bubbles Effects on Heat Transfer in the Laminar Regime, Nuclear Technology, 208:8, 1266-1278.
 1. Chika Eze, K.W. Wong, Tobias Gschnaidtne, Cai J, Jiyun Zhao (2019), Numerical study of effects of vortex generators on heat transfer deterioration of supercritical water upward flow. International Journal of Heat and Mass Transfer, Vol. 137, pp. 489–505.
 
 Conference Contributions
