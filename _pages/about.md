@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Kin Wing Wong, a Ph.D. student at the [Division of Nuclear Engineering](https://www.reactor.sci.kth.se/nuclear-engineering-1.792022) at KTH Royal Institue of Technology at Stockholm, Sweden, working with my sueprvisors, Dmitry Grishchenko and Pavel Kudinov, on lead-cooled fast reactor (LFR) modelling issues.
+I am Kin Wing Wong, a Ph.D. candidate specializing in Nuclear Engineering at the KTH Royal Institute of Technology in Stockholm, Sweden. My academic journey is richly supported by my advisors, Dmitry Grishchenko and Pavel Kudinov, with whom I am delving deep into the complexities of lead-cooled fast reactor (LFR) modelling. 
 
-My current research focuses on the modelling of flow accelerated corrosion and erosion (FACE) problem in heavy liquid metals (HLMs) within the [SUNRISE (Sustainable Nuclear Energy Research In Sweden)](https://www.sunrise-centre.se/) project. This project aims to develop and validate modeling techniques for understanding flow-accelerated corrosion and erosion (FACE) processes in HLM-cooled reactors. 
+Prior to my Ph.D. studies at KTH from 2022, I pursued and completed my Bachelor’s and Master's degrees in Nuclear Engineering, with my studies spanning across the City University of Hong Kong, EPFL, and ETH Zürich. Following my graduation at the Master's level in 2019, I embarked on a professional journey as a System Code Developer for thermal hydralic and servere accideint phenmenon, ATHLET and ATHLET-CD, at [Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH](https://www.grs.de/en), a position I held from 2019 to 2022
 
-In addition, I am also developing interface tracking simulation tools for diabatic compressible two-phase flows wiht phase change, next-generaiton system code for the full-regime boiling phenomenon.
+Currently, my research is nested within the framework of the [SUNRISE (Sustainable Nuclear Energy Research In Sweden)](https://www.reactor.sci.kth.se/sunrise/sunrise-1.999712) project, an ambitious initiative aimed at advancing our understanding and modelling capabilities of Flow Accelerated Corrosion and Erosion (FACE) in Heavy Liquid Metals (HLMs). You can find more about the WP5 project [here](https://www.reactor.sci.kth.se/sunrise/sunrise-work-plan-1.999730).
+
+In parallel, I am working in collaboration with the Paul Scherrer Institute, developing cutting-edge three-dimensional interface tracking simulation tools tailored for diabatic compressible two-phase flows with phase changes to capture sodium chugging phenomenon. I am also interestd in the full regime wall boiling model implementation in system-level thermal hydraulic code.
+
+I am open to collaborative opportunities, particularly those that strive to extend the frontiers of current knowledge and capabilities within computational studies. I have a keen interest in contributing to and advancing methodologies in turbulence flows, nuclear thermal hydraulics, nuclear materials, and multi-physics simulations.
