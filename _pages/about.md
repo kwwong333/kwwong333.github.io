@@ -19,3 +19,6 @@ My academic journey is richly supported by my advisors, Dmitry Grishchenko and P
 In parallel, I am working in collaboration with the [Advanced Nuclear System Group, Paul Scherrer Institute](https://www.psi.ch/en/lsm/ans-group) and [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de), developing cutting-edge three-dimensional interface tracking simulation tools tailored for diabatic compressible two-phase flows with phase changes to capture sodium chugging phenomenon. In addition, I am also interested in the full regime wall boiling model implementation in system-level thermal hydraulic code.
 
 I am open to collaborative opportunities, particularly those that strive to extend the frontiers of current knowledge and capabilities within computational studies. I have a keen interest in contributing to and advancing methodologies in turbulence flows, nuclear thermal hydraulics, nuclear materials, and multi-physics simulations.
+
+## News
+- 
