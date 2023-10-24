@@ -15,4 +15,4 @@ This second-coauthored paper is the result of the collaboration with the previou
 
 ![image](https://github.com/kwwong333/kwwong333.github.io/assets/23471398/6a092594-3c86-40f6-a676-d372b7e6d396)
 
-[Download paper here](http://academicpages.github.io/files/Eze_IJHT_2019.pdf)
+[Download paper here](http://kwwong333.github.io/files/1-s2.0-S0017931018357284-main.pdf)
