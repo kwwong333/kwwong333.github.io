@@ -14,3 +14,5 @@ The paper investigated the effectivness of vortex generator in the mitigation of
 This second-coauthored paper is the result of the collaboration with the previous research team under Prof. Jiyun Zhao at the City University of Hong Kong.
 
 ![image](https://github.com/kwwong333/kwwong333.github.io/assets/23471398/6a092594-3c86-40f6-a676-d372b7e6d396)
+
+[Download paper here](http://academicpages.github.io/files/Eze_IJHT_2019.pdf)
