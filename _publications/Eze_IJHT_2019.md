@@ -15,4 +15,4 @@ This second-coauthored paper is the result of the collaboration with the previou
 
 ![image](https://github.com/kwwong333/kwwong333.github.io/assets/23471398/6a092594-3c86-40f6-a676-d372b7e6d396)
 
-[Link to Publication](https://www.sciencedirect.com/science/article/pii/S0017931018357284#f0025)
+[Link to Publication](https://www.sciencedirect.com/science/article/pii/S0017931018357284)
