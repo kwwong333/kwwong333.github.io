@@ -1,7 +1,7 @@
 ---
 title: "Interface Tracking Investigation of the Sliding Bubbles Effects on Heat Transfer in the Laminar Regime"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/Wong_NT_2021
 excerpt: 'This paper investigates the influence of sliding bubbles on heat transfer in laminar flow at high Prandtl number using interface resolving simulation tool, PSI-BOIL.'
 date: 2022-08-17
 venue: 'Nuclear Technology'
