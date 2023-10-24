@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://kwwong333.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kwwong333.github.io"
+repository               : "kwwong333/kwwong333.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,10 +83,10 @@ author:
   name             : "K.W. Wong"
   avatar           : "profile.png"
   bio              : "PhD. Student at KTH Royal Institute of Technology, Sweden"
-  location         : "Location"
+  location         : "Sweden"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ylUMTHMAAAAJ&hl=en&inst=3006122349567257957"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
