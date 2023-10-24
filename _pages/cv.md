@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng(Hons). in Nuclear and Risk Engineering, City University of Hong Kong, Hong Kong, 2017
+* MSc. in Nuclear Engineering, EPFL and ETH Zürich, Switzerland, 2019
+* Ph.D in Physics (Nuclear Engineering), KTH Royal Institute of Technology, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2018: Safety Analyst Intern
+  * Kernkraftwerk (Nuclear Power Plant) Gösgen, Switzerland
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
