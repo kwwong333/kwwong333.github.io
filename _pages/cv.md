@@ -38,8 +38,8 @@ Journal Publications
 
 Conference Contributions
 ======
-1. Sumathai Vasudevan, Ignas Mickus, Kin Wing Wong, Haipeng Li, Dmitry Grishchenko, Pavel Kudinov (2023). Structural dynamic analysis for the molten lead Flow-Accelerated corrosion and erosion facility, International Congress on Advances in Nuclear Power Plants 2023, Gyeongju, Korea.
-2. Kin Wing Wong, Ignas Mickus, Sumathai Vasudevan,  Haipeng Li, Dmitry Grishchenko, Pavel Kudinov (2023). CFD Design Study of the Separated Effect Flow Acceleration Corrosion and Erosion (SEFACE) Facility, International Conference in Nuclear Engineering (ICONE-30), Kyoto, Japan.
+1. Kin Wing Wong, Ignas Mickus, Sumathai Vasudevan,  Haipeng Li, Dmitry Grishchenko, Pavel Kudinov (2023). CFD Design Study of the Separated Effect Flow Acceleration Corrosion and Erosion (SEFACE) Facility, International Conference in Nuclear Engineering (ICONE-30), Kyoto, Japan.
+2. Sumathai Vasudevan, Ignas Mickus, Kin Wing Wong, Haipeng Li, Dmitry Grishchenko, Pavel Kudinov (2023). Structural dynamic analysis for the molten lead Flow-Accelerated corrosion and erosion facility, International Congress on Advances in Nuclear Power Plants 2023, Gyeongju, Korea.
 3. Gerasimos Chourdakis, Kin Wing Wong, Joachim-Herb, Kanishk Bhatia, Fabian Weyermann, Benjamin Uekermann (2022). Coupling OpenFOAM with 1D thermohydraulics via preCICE, 17th OpenFOAM workshop, 2022.
 4. Gerasimos Chourdakis, Kin Wing Wong, Fabian Weyermann, Benjamin Uekermann (2022). Coupling 1D thermohydraulics with 3D CFD via preCICE, ECCOMAS Congress 2022 - preCICE Minisymposium.
 5. K.W. Wong, L. Bures and K. Mikityuk (2020). CFD Study of the Effect of Sliding Bubbles on Heat transfer in Laminar Regime, Proceedings in the International Topical Meeting on Advances in Thermal Hydraulics 2020, 20-23 October 2020, Palaiseau, France.
