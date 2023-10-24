@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Kin Wing Wong, a Ph.D. candidate specializing in Nuclear Engineering at the KTH Royal Institute of Technology in Stockholm, Sweden. My academic journey is richly supported by my advisors, Dmitry Grishchenko and Pavel Kudinov, with whom I am delving deep into the complexities of lead-cooled fast reactor (LFR) modelling. 
+I am Kin Wing Wong, a Ph.D. candidate specializing in [Nuclear Engineering](https://www.reactor.sci.kth.se/nuclear-engineering-1.792022) at the KTH Royal Institute of Technology in Stockholm, Sweden. My academic journey is richly supported by my advisors, Dmitry Grishchenko and Pavel Kudinov, with whom I am delving deep into the complexities of lead-cooled fast reactor (LFR) modelling. 
 
 Prior to my Ph.D. studies at KTH from 2022, I pursued and completed my Bachelor’s and Master's degrees in Nuclear Engineering, with my studies spanning across the City University of Hong Kong, EPFL, and ETH Zürich. Following my graduation at the Master's level in 2019, I embarked on a professional journey as a System Code Developer for thermal hydralic and servere accideint phenmenon, ATHLET and ATHLET-CD, at [Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH](https://www.grs.de/en), a position I held from 2019 to 2022
 
