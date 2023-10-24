@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student at KTH Royal Institute of Technology, Sweden"
   location         : "Stocholm, Sweden"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ylUMTHMAAAAJ&hl=en&inst=3006122349567257957"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Kin-Wing-Wong"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -272,6 +273,10 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 
 # Archives
