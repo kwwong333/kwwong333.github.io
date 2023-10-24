@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* BEng(Hons). in Nuclear and Risk Engineering, City University of Hong Kong, Hong Kong, 2017
-* MSc. in Nuclear Engineering, EPFL and ETH Zürich, Switzerland, 2019
-* Ph.D in Physics (Nuclear Engineering), KTH Royal Institute of Technology, 2026 (expected)
+BEng(Hons). in Nuclear and Risk Engineering, City University of Hong Kong, Hong Kong, 2017
+
+MSc. in Nuclear Engineering, EPFL and ETH Zürich, Switzerland, 2019
+
+Ph.D in Physics (Nuclear Engineering), KTH Royal Institute of Technology, 2026 (expected)
 
 Work experience
 ======
-* Summer 2018: Safety Analyst Intern
-  * Kernkraftwerk (Nuclear Power Plant) Gösgen, Switzerland
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#### Feb 2022 - Now, Doctoral Student, Division of Nuclear Engineering, Department of Physics, KTH Royal Institute of Technology, Stockholm, Sweden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#### Dec 2019 - Feb 2022, Wissenschaftlicher Mitarbeiter (Thermal Hydraulic and Severe Accident Code Developer), Abteilung Kühlkreislauf (Cooling Circuit Department), Safety Research Section, Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH, Munich, Germany
+- Responsible for code development of system codes, AC$^2$/ATHLET and AC$^2$/ATHLET-CD for simulation of thermohydraulic (TH) and severe accident (SA) phenomena.
+- Examining the partitioning of wall heat fluxes and the condensation process at the interface to determine subcooled boiling at low pressure and flow instability. The critical heat flux model for narrow rectangular geometric channels was implemented and validated. 
+- Created a model to calculate the temporary retention of molten material at the location of spacer grids, as well as the associated energy transfer and failure. The model was implemented to account for changes in the properties and reaction rates during eutectic interaction and nitride formation in a BWR melt. 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#### Jul 2018 - Oct 2018, Safety Analysis Intern, Abteilung Sicherheit (Deterministic Safety Department), Kernkraftwerk (Nuclear Power Plant) Gösgen (KKG), Däniken, Switzerland
+- Verified the accuracy of the TRACE-KKG package against AREVA's calculations for various sizes of Small Break Loss of Coolant Accidents (SBLOCA) during a Station Blackout (SBO) scenario.
+- Examined the effects of "direct injection" and "emergency borated water spraying" on plant responses to inform potential modifications to the plant in the future.
+- Published an internal safety report for KKG, "Assessment of TRACE\_KKG for LOCA scenarios under Station Blackout conditions without single failure".
 
-Publications
+Journal Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. K.W. Wong L. Bures and K. Mikityuk (2021). Interface Tracking Investigation of the Sliding Bubbles Effects on Heat Transfer in the Laminar Regime, Nuclear Technology, 208:8, 1266-1278.
+1. Chika Eze, K.W. Wong, Tobias Gschnaidtne, Cai J, Jiyun Zhao (2019), Numerical study of effects of vortex generators on heat transfer deterioration of supercritical water upward flow. International Journal of Heat and Mass Transfer, Vol. 137, pp. 489–505.
+
+Conference Contributions
+======
+1. Sumathai Vasudevan, Ignas Mickus, Kin Wing Wong, Haipeng Li, Dmitry Grishchenko, Pavel Kudinov (2023). Structural dynamic analysis for the molten lead Flow-Accelerated corrosion and erosion facility, International Congress on Advances in Nuclear Power Plants 2023, Gyeongju, Korea.
+2. Kin Wing Wong, Ignas Mickus, Sumathai Vasudevan,  Haipeng Li, Dmitry Grishchenko, Pavel Kudinov (2023). CFD Design Study of the Separated Effect Flow Acceleration Corrosion and Erosion (SEFACE) Facility, International Conference in Nuclear Engineering (ICONE-30), Kyoto, Japan.
+3. Gerasimos Chourdakis, Kin Wing Wong, Joachim-Herb, Kanishk Bhatia, Fabian Weyermann, Benjamin Uekermann (2022). Coupling OpenFOAM with 1D thermohydraulics via preCICE, 17th OpenFOAM workshop, 2022.
+4. Gerasimos Chourdakis, Kin Wing Wong, Fabian Weyermann, Benjamin Uekermann (2022). Coupling 1D thermohydraulics with 3D CFD via preCICE, ECCOMAS Congress 2022 - preCICE Minisymposium.
+5. K.W. Wong, L. Bures and K. Mikityuk (2020). CFD Study of the Effect of Sliding Bubbles on Heat transfer in Laminar Regime, Proceedings in the International Topical Meeting on Advances in Thermal Hydraulics 2020, 20-23 October 2020, Palaiseau, France.
+6. K.W. Wong, L. Bures, S. Nichenko, J. Krepel (2019). DNS of the Molten Salt Bubble Growth with PSI-BOIL, Proceedings for the International Congress on Advances in Nuclear Power Plants 2019, Juan les pins, France. 
+7. Kin Wing Wong, Hui Cheng, Jiyun Zhao (2017). Numerical Studies of Mitigation of Heat Transfer Deterioration in Supercritical CO$_2$ Heat Exchanger Application, Proceedings in the 25^{th} International Conference on Nuclear Engineering, Shanghai, China. 
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
