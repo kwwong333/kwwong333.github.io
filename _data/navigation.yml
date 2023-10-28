@@ -6,11 +6,11 @@ main:
   - title: "List of Publication"
     url: /list_of_publication/
     
-  - title: "Journal Publications"
-    url: /publications/
+  # - title: "Journal Publications"
+  #   url: /publications/
 
-  - title: "Conference Contributions"
-    url: /talks/    
+  # - title: "Conference Contributions"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
