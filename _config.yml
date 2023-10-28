@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kin Wing Wong"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kin Wing Wong"
 description              : &description "personal description"
 url                      : https://kwwong333.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Kin Wing Wong"
   avatar           : "profile.png"
   bio              : "Ph.D. Student at KTH Royal Institute of Technology, Sweden"
-  location         : "Stocholm, Sweden"
+  location         : "Stockholm, Sweden"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ylUMTHMAAAAJ&hl=en&inst=3006122349567257957"
