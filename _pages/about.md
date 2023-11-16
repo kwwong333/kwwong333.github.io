@@ -22,4 +22,4 @@ I am open to collaborative opportunities, particularly those that strive to exte
 
 ## News
 - 
-- 16.11.2023, Our collabroative conference paper on "Flow Reconstruction of Single-Phase Planar Jet from Sparse Temperature Measurement" has won the Best Paper Award from the Saudi International Conference in Nuclear Power Engineering (SCONE), Congrats, Xicheng.
+- 16.11.2023, Congrats, Xicheng! Our collaborative conference paper on "Flow Reconstruction of Single-Phase Planar Jet from Sparse Temperature Measurement" won the Best Paper Award at the Saudi International Conference in Nuclear Power Engineering (SCONE).
