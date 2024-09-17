@@ -21,5 +21,6 @@ In parallel, I am working in collaboration with the [Advanced Nuclear System Gro
 I am open to collaborative opportunities, particularly those that strive to extend the frontiers of current knowledge and capabilities within computational studies. I have a keen interest in contributing to and advancing methodologies in turbulence flows, nuclear thermal hydraulics, nuclear materials, and multi-physics simulations.
 
 ## News
+- 08.08.2024: My conference poster on "Enabling Passive Scalar Wall Modelling in Large Eddy Simulation for Turbulent Flows at High Schmidt or Prandtl Numbers" got the Best Poster Award from ICONE-31.
 - 15.12.2023: My first journal paper at KTH, titled 'Hydrodynamic Design of the Separate Effect Test Facility for Flow-Accelerated Corrosion and Erosion (SEFACE) Studies in Liquid Lead,' has been accepted in Nuclear Engineering and Design.
 - 16.11.2023: Congrats, Xicheng! Our collaborative conference paper on "Flow Reconstruction of Single-Phase Planar Jet from Sparse Temperature Measurement" won the Best Paper Award at the Saudi International Conference in Nuclear Power Engineering (SCONE).
