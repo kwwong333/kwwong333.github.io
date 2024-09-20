@@ -6,8 +6,8 @@ main:
   - title: "List of Publication"
     url: /list_of_publication/
 
-  - title: "List of Publication"
-    url: /posts/
+  # - title: "List of Publication"
+  #   url: /year-archive/
     
   # - title: "Journal Publications"
   #   url: /publications/
@@ -18,11 +18,11 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   # - title: "Guide"
   #   url: /markdown/
