@@ -19,7 +19,7 @@ Ph.D in Physics (Nuclear Engineering), KTH Royal Institute of Technology, Sweden
 
 Work experience
 ======
-### Feb 2022 - Now, Doctoral Student, Division of Nuclear Engineering, Department of Physics, KTH Royal Institute of Technology, Stockholm, Sweden
+### Feb 2022 - Feb 2026, Doctoral Student, Division of Nuclear Science and Engineering, Department of Physics, KTH Royal Institute of Technology, Stockholm, Sweden
 
 ### Dec 2019 - Feb 2022, Wissenschaftlicher Mitarbeiter (Thermal Hydraulic and Severe Accident Code Developer), Abteilung Kühlkreislauf (Cooling Circuit Department), Safety Research Section, Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH, Munich, Germany
 - Responsible for code development of system codes, AC$^2$/ATHLET and AC$^2$/ATHLET-CD for simulation of thermohydraulic (TH) and severe accident (SA) phenomena.
