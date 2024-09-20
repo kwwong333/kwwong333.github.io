@@ -10,7 +10,7 @@ location: "Stockholm Sweden"
 
 Act as the primary supervisor for the thesis titled "Advanced PINN Integration with Multiple PINN Methods" [Link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1861338&dswid=1278).
 
-![Physics-Informed Neural Network](image.png)
+![Physics-Informed Neural Network](2024-PINN-thesis.png)
 
 ## Abstract
 
