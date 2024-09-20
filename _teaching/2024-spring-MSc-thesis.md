@@ -12,7 +12,7 @@ Act as the primary supervisor for the thesis titled "Advanced PINN Integration w
 
 ![Physics-Informed Neural Network](image.png)
 
-##Abstract
+## Abstract
 
 This thesis evaluates the efficacy of Physics-Informed Neural Networks (PINNs) in simulating fluid dynamics challenges, focusing on the Burgers' equation and the lid-driven cavity problem, to develop a robust PINN framework for nuclear engineering applications such as the Sustainable Nuclear Energy Research In Sweden (SUNRISE) project. The research compares various PINN models to traditional Computational Fluid Dynamics (CFD) simulations to enhance predictive accuracy and computational efficiency for reactor design.
 
