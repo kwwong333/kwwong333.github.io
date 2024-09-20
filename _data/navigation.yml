@@ -5,6 +5,9 @@ main:
 
   - title: "List of Publication"
     url: /list_of_publication/
+
+  - title: "List of Publication"
+    url: /posts/
     
   # - title: "Journal Publications"
   #   url: /publications/
