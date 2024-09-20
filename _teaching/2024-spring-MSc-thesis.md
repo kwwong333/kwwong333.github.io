@@ -1,7 +1,7 @@
 ---
 title: "Supervision of Master Thesis - Hanseul Kang"
 collection: teaching
-type: "Supervision of Master Thesis "
+type: "Supervision of Master Thesis"
 permalink: /teaching/2014-spring-MSc-thesis
 venue: "NSE Department, KTH"
 date: 2024-01-16
