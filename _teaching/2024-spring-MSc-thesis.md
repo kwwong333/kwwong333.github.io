@@ -3,7 +3,7 @@ title: "Supervision of Master Thesis - Hanseul Kang"
 collection: teaching
 type: "Supervision of Master Thesis"
 permalink: /teaching/2014-spring-MSc-thesis
-venue: "NSE Department, KTH"
+venue: "Division of Nuclear Science and Engineering, KTH"
 date: 2024-01-16
 location: "Stockholm Sweden"
 ---
