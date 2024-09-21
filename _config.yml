@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # __news
+  # _news
    - scope:
       path: ""
       type: news
