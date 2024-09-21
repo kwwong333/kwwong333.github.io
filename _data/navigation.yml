@@ -1,14 +1,14 @@
 # main links links
 main:
+    - title: "News"
+    url: /news/
+
   - title: "CV"
     url: /cv/
 
   - title: "List of Publication"
     url: /list_of_publication/
 
-  # - title: "List of Publication"
-  #   url: /year-archive/
-    
   # - title: "Journal Publications"
   #   url: /publications/
 
