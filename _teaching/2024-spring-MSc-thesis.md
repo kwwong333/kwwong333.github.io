@@ -8,7 +8,7 @@ date: 2024-01-16
 location: "Stockholm Sweden"
 ---
 
-Served as the primary supervisor for the thesis titled 'Advanced PINN Integration with Multiple PINN Methods', which investigates the enhancement of PINN predictive performance under high Reynolds number conditions through the application of finite difference gradient computation and transfer learning techniques. [[Link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1861338&dswid=1278)]
+Served as the primary supervisor for the thesis titled 'Advanced PINN Integration with Multiple PINN Methods', which investigates the enhancement of PINN predictive performance under high Reynolds number conditions through the application of finite difference gradient computation and transfer learning techniques. [Link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1861338&dswid=1278)
 
 ![Physics-Informed Neural Network](2024-PINN-thesis.png)
 
