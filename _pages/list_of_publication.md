@@ -12,7 +12,7 @@ redirect_from:
 Journal Publications
 ======
 1. **Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. (2024). Development of a Two-Layer Scalar Diffusivity Wall Model for High Peclet Number Turbulent Flows. Under Preparation.
-2. Peterson, C.$^{*}$, **Wong, K. W.**, Szakálosc P., Pettersson R. (2024). A Combined Modelling and Experimental Investigation of Erosion-Corrosion of Chromia- and Alumina-Forming Steels in Liquid Lead, Submitted.
+2. Peterson, C.$^{*}$, **Wong, K. W.**, Szakálosc P. (2024). A Combined Modelling and Experimental Investigation of Erosion-Corrosion of Chromia- and Alumina-Forming Steels in Liquid Lead, Submitted.
 3. **Wong, K. W.**\* , Mickus, I.\*, Torkelson, N., Vasudevan, S., Li, H., Grishchenko, D.\*, Kudinov, P.\* (2024). Hydrodynamic design of the Separate Effect test facility for Flow-Accelerated Corrosion and Erosion (SEFACE) studies in liquid lead. Nuclear Engineering and Design, 417, 112852. [Link](https://doi.org/10.1016/j.nucengdes.2023.112852)
 1. **Wong, K. W.**\*, Bures, L., Mikityuk, K. (2022). Interface Tracking Investigation of the Sliding Bubbles Effects on Heat Transfer in the Laminar Regime. Nuclear Technology, 208(8), 1266-1278. [Link](https://www.tandfonline.com/doi/abs/10.1080/00295450.2021.1971025)
 1. Eze, C., **Wong, K. W.**, Gschnaidtne, T., Cai, J., Zhao, J.\* (2019). Numerical study of effects of vortex generators on heat transfer deterioration of supercritical water upward flow. International Journal of Heat and Mass Transfer, 137, 489-505. [Link](https://www.sciencedirect.com/science/article/pii/S0017931018357284)
