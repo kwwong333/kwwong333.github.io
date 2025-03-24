@@ -11,7 +11,7 @@ redirect_from:
 
 Journal Publications
 ======
-2.**Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. Wall-Modelled Large Eddy Simulation on Rotating Boundary Layers in SEFACE Facility, Under Preparation. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity)
+2. **Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. Wall-Modelled Large Eddy Simulation on Rotating Boundary Layers in SEFACE Facility, Under Preparation. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity)
 2. **Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. Dynamic Morphology Modelling for Flow Accelerated Corrosion in Heavy Liquid Metal with Gap-Tooth Approach, Under Preparation. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity)
 3. **Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. Improved Predictions in Non-Equilibrium Mass Transfer Problems using Two-Layer Model for High Schmidt Turbulent Flows, Under Preparation. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity)
 2. **Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. (2025). A Modified Two-Layer Scalar Diffusivity Description for High Schmidt and Prandtl Turbulent Boundary Layer. *Physics of Fluids*, 37(2), 025219. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity)
