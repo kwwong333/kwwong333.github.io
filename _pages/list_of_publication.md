@@ -11,7 +11,7 @@ redirect_from:
 
 Journal Publications
 ======
-1. **Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. Gap-Tooth RANS Simulations of Surface Evolution in Flow-Accelerated Corrosion with an Enhanced High-Schmidt Scalar Transport Model, Under Preparation.
+1. **Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. Enhancing Wall-Resolved and Wall-Modelled Predictions of High Schmidt Mass Transfer in RANS Turbulence Models, Under Preparation.
 2. **Wong, K. W.**\* , P. Szaklous\*, C. Peterson, Grishchenko, D., Kudinov, P. (2026). Mechanistic Insight into the Ferritization of Austenite in Pb via a Discontinuous Reaction Governed by a Migrating Liquid Film. Submitted.
 3. **Wong, K. W.**\* , Mickus, I., Grishchenko, D., Kudinov, P. (2025). A Modified Two-Layer Scalar Diffusivity Description for High Schmidt and Prandtl Turbulent Boundary Layer. *Physics of Fluids*, 37(2), 025219. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity)
 4. **Wong, K. W.**\* , Mickus, I.\*, Torkelson, N., Vasudevan, S., Li, H., Grishchenko, D.\*, Kudinov, P.\* (2024). Hydrodynamic design of the Separate Effect test facility for Flow-Accelerated Corrosion and Erosion (SEFACE) studies in liquid lead. *Nuclear Engineering and Design*, 417, 112852. [Link](https://doi.org/10.1016/j.nucengdes.2023.112852)
