@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-My first journal paper at KTH, titled ‘Hydrodynamic Design of the Separate Effect Test Facility for Flow-Accelerated Corrosion and Erosion (SEFACE) Studies in Liquid Lead,’ has been accepted in Nuclear Engineering and Design.
+My first journal paper at KTH, titled ‘Hydrodynamic Design of the Separate Effect Test Facility for Flow-Accelerated Corrosion and Erosion (SEFACE) Studies in Liquid Lead,’ has been accepted in Nuclear Engineering and Design. [Link](https://www.sciencedirect.com/science/article/pii/S002954932300701X)
 
