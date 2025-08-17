@@ -443,7 +443,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-my-first-journal-paper-at-kth-titled-hydrodynamic-design-of-the-separate-effect-test-facility-for-flow-accelerated-corrosion-and-erosion-seface-studies-in-liquid-lead-has-been-accepted-in-nuclear-engineering-and-design",
+          section: "News",},{id: "news-my-first-journal-paper-at-kth-titled-hydrodynamic-design-of-the-separate-effect-test-facility-for-flow-accelerated-corrosion-and-erosion-seface-studies-in-liquid-lead-has-been-accepted-in-nuclear-engineering-and-design-link",
           title: 'My first journal paper at KTH, titled ‘Hydrodynamic Design of the Separate Effect...',
           description: "",
           section: "News",},{id: "news-my-second-journal-paper-at-kth-titled-a-modified-two-layer-scalar-diffusivity-description-for-high-schmidt-and-prandtl-turbulent-boundary-layer-has-been-accepted-in-physics-of-fluids-link",
