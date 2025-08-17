@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Kin Wing Wong, a Ph.D. candidate specializing in [Nuclear Engineering](https://www.reactor.sci.kth.se/nuclear-engineering-1.792022) at the [KTH Royal Institute of Technology](https://www.kth.se) in Stockholm, Sweden. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My Ph.D. topic is related to modeling the flow accelerated corrosion and erosion (FACE) problem in liquid heavy metals using computational fluid dynamics (CFD). This project aims to develop and validate modeling techniques for understanding flow-accelerated corrosion and erosion (FACE) phenomenon in heavy liquid metal-cooled (HLM) reactors. The research is part of the [SUNRISE (Sustainable Nuclear Energy Research In Sweden)](https://www.reactor.sci.kth.se/sunrise/sunrise-1.999712) project.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As part of my Ph.D. project, I am developing an advanced wall model for turbulent flows with high Schmidt numbers, along with a GPU-accelerated CFD solver utilizing high-order numerics for efficient turbulent flow modeling. 
+
+In addition, I am conducting wall-modeled large eddy simulations (WMLES) for the SEFACE Facility's test chamber, focusing on hydrodynamics and mass transfer at very high Reynolds number. This work aims to improve the prediction of corrosion and erosion damage mechanisms in relevant operational condtion for LFR. 
+
+Beyond conventional modeling and development, I am also investigating the effect of surface morphological changes due to turbulent flow-induced dissolution and exploring physics-informed optimization techniques to enhance our understanding of passive scalar dynamics.
