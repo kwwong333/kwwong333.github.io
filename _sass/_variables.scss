@@ -1,82 +1,132 @@
 /* ==========================================================================
+   Variables
+   ========================================================================== */
+
+/*
    Typography
    ========================================================================== */
 
 $doc-font-size              : 16;
 
-/* Use your fonts */
-$global-font-family         : "Crimson Pro", serif;
-$header-font-family         : "Crimson Pro", serif;
-$caption-font-family        : "Crimson Pro", serif;
-$monospace                  : "Ubuntu Mono", monospace;
+/* paragraph indention */
+$paragraph-indent           : false; // true, false (default)
+$indent-var                 : 1.3em;
 
-/* type scale (unchanged) */
-$type-size-1                : 2.441em;
-$type-size-2                : 1.953em;
-$type-size-3                : 1.563em;
-$type-size-4                : 1.25em;
-$type-size-5                : 1em;
-$type-size-6                : 0.75em;
-$type-size-7                : 0.6875em;
-$type-size-8                : 0.625em;
+/* system typefaces */
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
-/* Your body sizing + weights */
-$base-font-size: 18px;
-$h1-font-size: 24px;
-$h2-font-size: 22px;
-$h3-font-size: 20px;
-$base-line-height: 1.3;
-$publication-line-height: 1.1;
-$text-font-weight: 400;
-$heading-font-weight: 500;
+/* sans serif typefaces */
+$sans-serif-narrow          : $sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+
+/* serif typefaces */
+$georgia                    : Georgia, serif;
+$times                      : Times, serif;
+$bodoni                     : "Bodoni MT", serif;
+$calisto                    : "Calisto MT", serif;
+$garamond                   : Garamond, serif;
+
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $serif;
+
+/* type scale */
+$type-size-1                : 2.441em;  // ~39.056px
+$type-size-2                : 1.953em;  // ~31.248px
+$type-size-3                : 1.563em;  // ~25.008px
+$type-size-4                : 1.25em;   // ~20px
+$type-size-5                : 1em;      // ~16px
+$type-size-6                : 0.75em;   // ~12px
+$type-size-7                : 0.6875em; // ~11px
+$type-size-8                : 0.625em;  // ~10px
+
 
 /*
    Colors
    ========================================================================== */
 
-/* Your palette inserted here */
-$primary-color        : #13294B;
-$secondary-color      : #39c;
-$text-color           : #595959;
-$text-color-dark      : #dadbdf;
-$link-color           : #39c;
-$link-color-hover     : #069;
-$border-color         : #eee;
-$dark-bg              : #20212b;
-$badge-color          : #39c;
-$highlight-color      : #d73a49;
+$gray                       : #1271ba;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
-/* Backgrounds */
-$body-color           : #fff;
-$background-color     : #fff;
+$body-color                 : #fff;
+$background-color           : #fff;
 $code-background-color      : #fafafa;
-$code-background-color-dark : lighten(#13294B, 25%);
+$code-background-color-dark : $light-gray;
+// $text-color                 : $dark-gray;
+$text-color                 : #595959; 
+$text-color-dark            : #dadbdf; 
+//$border-color               : $lighter-gray;
+$border-color               : #eee; 
 
-/* System brand colors remain unchanged */
+// $primary-color              : mix(#000, $gray, 40%);
+$primary-color: #13294B; 
+$secondary-color: #39c; 
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
+
+
+$dark-bg: #20212b; 
+$badge-color: #39c; 
+$highlight-color: #d73a49;
+
+/* brands */
+$behance-color              : #1769FF;
+$dribbble-color             : #ea4c89;
+$facebook-color             : #3b5998;
+$flickr-color               : #ff0084;
+$foursquare-color           : #0072b1;
+$github-color               : #171516;
+$google-plus-color          : #dd4b39;
+$instagram-color            : #517fa4;
+$lastfm-color               : #d51007;
+$linkedin-color             : #007bb6;
+$pinterest-color            : #cb2027;
+$rss-color                  : #fa9b39;
+$soundcloud-color           : #ff3300;
+$stackoverflow-color        : #fe7a15;
+$tumblr-color               : #32506d;
+$twitter-color              : #55acee;
+$vimeo-color                : #1ab7ea;
+$vine-color                 : #00bf8f;
+$youtube-color              : #bb0000;
+$xing-color                 : #006567;
+
+
+/* links */
+//$link-color                 : $info-color;
+//$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color                   : #39c; 
+$link-hover-color             : #069; 
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+
 
 /*
    Breakpoints
    ========================================================================== */
 
 @include breakpoint-set("to ems", true);
-
-$small                : 600px !default;
-$medium               : 768px !default;
-$medium-wide          : 900px !default;
-$large                : 925px !default;
-$x-large              : 1280px !default;
-
-/* Your breakpoints */
-$breakpoint-tablet: 960px;
-$breakpoint-mobile: 480px;
-
 /*
-   Layout
-   ========================================================================== */
+$small                      : 400px;
+$medium                     : 500px;
+$medium-wide                : 550px;
+$large                      : 1200px;
+$x-large                    : 1800px;
+*/
 
-$header-width: 270px;
-$content-width: 650px;
-$wrapper-width: 960px;
+$small                      : 600px !default;
+$medium                     : 768px !default;
+$medium-wide                : 900px !default;
+$large                      : 925px !default;
+$x-large                    : 1280px !default;
 
 /*
    Grid
@@ -86,20 +136,30 @@ $right-sidebar-width-narrow : 0px;
 $right-sidebar-width        : 0px;
 $right-sidebar-width-wide   : 0px;
 
-/*
-   Spacing
-   ========================================================================== */
+$susy: (
+  columns: 12,
+  column-width: 120px,
+  gutters: 1/4,
+  math: fluid,
+  output: float,
+  gutter-position: after,
+  container: $large,
+  global-box-sizing: border-box,
+  // debug: (
+  //   image: show,
+  //   color: blue,
+  //   output: overlay,
+  //   toggle: top right,
+  // ),
+);
 
-$spacing-unit: 1rem;
-$section-spacing: 2rem;
-$header-padding: 4em;
 
 /*
    Other
    ========================================================================== */
 
-$border-radius       : 4px;
-$box-shadow          : 0 1px 1px rgba(0, 0, 0, 0.125);
-$navicon-width       : 28px;
-$navicon-height      : 4px;
-$global-transition   : all 0.2s ease-in-out;
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$global-transition          : all 0.2s ease-in-out;
