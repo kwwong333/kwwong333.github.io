@@ -12,16 +12,19 @@ I am Kin Wing Wong, a Ph.D. candidate specializing in [Nuclear Engineering](http
 
 My work focuses on the fundamental physics and multi-scale modeling of turbulent transport and corrosion–erosion phenomena in heavy liquid metal (HLM) systems, with direct relevance to next-generation nuclear technologies. I investigate how high Schmidt number turbulent flows regulate mass transfer, nucleation, particle growth and shrinkage, and material degradation at solid–liquid interfaces.
 
-A central theme of my research is the development of integrated experimental–computational frameworks for interrogating flow-accelerated corrosion and erosion. Experimentally, I contribute to the design and operation of high-temperature liquid-metal rotating-disk facilities that enable mechanistic quantification of corrosion, oxide formation, and erosive material loss under well-characterized turbulent boundary layers. Computationally, I develop hybrid numerical approaches that couple high-fidelity Eulerian CFD solvers with Lagrangian Random Walk Monte Carlo (RWMC) models to resolve non-local turbulent mixing, nucleation kinetics, and precipitation dynamics. In parallel, I am developing an immersed-boundary–based computational frameworks to study the two-way coupling between evolving surface topography and turbulent flow dynamics.
+A central theme of my research is the development of integrated experimental–computational frameworks for interrogating flow-accelerated corrosion and erosion. 
 
-Computational Research
+- Experimentally, I contribute to the design and operation of high-temperature liquid-metal rotating-disk facilities that enable mechanistic quantification of corrosion, oxide formation, and erosive material loss under well-characterized turbulent boundary layers.
+- Computationally, I develop hybrid numerical approaches that couple high-fidelity Eulerian CFD solvers with Lagrangian Random Walk Monte Carlo (RWMC) models to resolve non-local turbulent mixing, nucleation kinetics, and precipitation dynamics. In parallel, I am developing an immersed-boundary–based computational frameworks to study the two-way coupling between evolving surface topography and turbulent flow dynamics.
+
+Computational Research Interests
 
 - Turbulent scalar transport at high Schmidt number, including non-local flux modeling and fundamental mass-transfer mechanisms across diverse flow regimes.
 - Corrosion, erosion, and oxidation in heavy liquid metal systems, with emphasis on multiscale coupling between turbulence, interfacial reaction kinetics, and material degradation pathways.
 - Nucleation, growth, shrinkage, and dissolution of oxide particles, integrating classical nucleation theory with direct numerical simulation (DNS), Lagrangian RWMC, and population-balance modelling.
 - Advanced numerical methods, including immersed-boundary and level-set hybrid schemes, high-order discretizations for evolving interfaces, and GPU-accelerated solvers for high-fidelity simulations.
 
-Experimental Research
+Experimental Research Interests
 
 - Rotating boundary-layer–driven mass transfer, particularly in systems where centrifugal and Coriolis effects govern corrosion and dissolution processes, such as pump impellers and rotating disks.
 - High-temperature liquid-metal corrosion and erosion studies, using rotating-disk facilities to quantify oxide formation, dissolution, and material loss under controlled turbulent boundary layers.
