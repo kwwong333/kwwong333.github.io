@@ -10,7 +10,7 @@ redirect_from:
 
 I am Kin Wing Wong, a Ph.D. candidate specializing in [Nuclear Engineering](https://www.reactor.sci.kth.se/nuclear-engineering-1.792022) at the [KTH Royal Institute of Technology](https://www.kth.se) in Stockholm, Sweden. 
 
-My work focuses on the fundamental physics and multi-scale modeling of turbulent transport and corrosion–erosion phenomena in heavy liquid metal (HLM) systems, with direct relevance to next-generation nuclear technologies. 
+My work focuses on the experimental investigation and multi-scale modeling of turbulent transport and corrosion–erosion phenomena in heavy liquid metal (HLM) systems, with direct relevance to next-generation nuclear technologies.
 
 A central theme of my research is the development of integrated experimental–computational frameworks for investigating flow-accelerated corrosion and erosion. 
 
