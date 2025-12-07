@@ -14,7 +14,7 @@ My work focuses on the fundamental physics and multi-scale modeling of turbulent
 
 A central theme of my research is the development of integrated experimental–computational frameworks for interrogating flow-accelerated corrosion and erosion. 
 
-- Experimentally, I contribute to the design and operation of high-temperature liquid-metal rotating-disk facilities that enable mechanistic quantification of corrosion, oxide formation, and erosive material loss under well-characterized turbulent boundary layers.
+- Experimentally, I contribute to the design and operation of high-temperature liquid-metal corrosion and rotating-disk erosion facilities that enable quantification of corrosion, oxide formation, and erosive material loss under well-characterized turbulent boundary layers. In addition, I conduct experimental investigations into the damage mechanisms of corrosion and erosion-assisted corrosion to develop a fundamental understanding of these processes in both conventional and advanced structural materials.
 - Computationally, I develop hybrid numerical approaches that couple high-fidelity Eulerian CFD solvers with Lagrangian Random Walk Monte Carlo (RWMC) models to resolve non-local turbulent mixing, nucleation kinetics, and precipitation dynamics. In parallel, I am developing an immersed-boundary–based computational frameworks to study the two-way coupling between evolving surface topography and turbulent flow dynamics.
 
 Computational Research Interests
