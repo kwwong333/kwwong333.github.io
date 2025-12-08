@@ -19,7 +19,7 @@ Ph.D in Physics (Nuclear Engineering), KTH Royal Institute of Technology, Sweden
 
 Work experience
 ======
-### **Doctoral Student**  
+**Doctoral Student**  
 **Division of Nuclear Science and Engineering, Department of Physics**  
 **KTH Royal Institute of Technology, Stockholm, Sweden**  
 **Feb 2022 – Present**
@@ -28,7 +28,7 @@ Work experience
 - Developing integrated experimental–computational frameworks combining high-temperature rotating-disk facilities with high-fidelity CFD and Random Walk Monte Carlo (RWMC) models.  
 - Implementing immersed-boundary and multi-physics modelling approaches to study surface evolution and material degradation under turbulent flow conditions.
 
-### **Wissenschaftlicher Mitarbeiter (Thermal Hydraulic and Severe Accident Code Developer)**  
+**Wissenschaftlicher Mitarbeiter (Thermal Hydraulic and Severe Accident Code Developer)**  
 **Cooling Circuit Department (Abteilung Kühlkreislauf)**  
 **Safety Research Section**  
 **Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) gGmbH, Munich, Germany**  
@@ -39,7 +39,7 @@ Work experience
 - Implemented and validated a critical heat-flux (CHF) model for advanced reactor channel geometries.  
 - Built a mechanistic model for temporary retention and energy transfer of molten material at spacer-grid locations, including changes in material properties and reaction rates during eutectic interaction and nitride formation in BWR melt scenarios.
 
-### **Safety Analysis Intern**  
+**Safety Analysis Intern**  
 **Deterministic Safety Department (Abteilung Sicherheit)**  
 **Kernkraftwerk Gösgen (KKG), Däniken, Switzerland**  
 **Jul 2018 – Oct 2018**
