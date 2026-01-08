@@ -23,10 +23,14 @@ Work experience
 **Division of Nuclear Science and Engineering, Department of Physics**  
 **KTH Royal Institute of Technology, Stockholm, Sweden**  
 **Feb 2022 – Present**
-
-- Conducting research on turbulent transport, high-Schmidt-number scalar mixing, and corrosion–erosion in heavy liquid metals for next-generation nuclear systems.  
-- Developing integrated experimental–computational frameworks combining high-temperature rotating-disk facilities with high-fidelity CFD and Random Walk Monte Carlo (RWMC) models.  
-- Implementing immersed-boundary and multi-physics modelling approaches to study surface evolution and material degradation under turbulent flow conditions.
+- Conduct experimental investigation and multi-scale modeling of turbulent transport and corrosion–erosion phenomena in heavy liquid metal (HLM) systems.
+- Developed integrated experimental–computational frameworks for studying flow-accelerated corrosion and erosion under turbulent boundary-layer conditions.
+- Designed, built, and operated high-temperature liquid-metal corrosion and rotating-disk erosion facilities to quantify corrosion kinetics, oxide formation, and erosive material loss.
+- Performed experimental studies on corrosion damage and erosion-assisted corrosion mechanisms in conventional and advanced structural materials.
+- Developed hybrid numerical models coupling high-fidelity Eulerian computational fluid dynamics (CFD) solvers with Lagrangian Random Walk Monte Carlo (RWMC) methods to resolve non-local turbulent mixing, nucleation, and precipitation processes.
+- Implemented population-balance and nucleation models to describe oxide particle growth, shrinkage, dissolution, and transport in turbulent liquid-metal flows.
+- Developed immersed-boundary-based computational frameworks to study two-way coupling between evolving surface topography and turbulent flow dynamics.
+- Applied advanced numerical techniques, including immersed-boundary and level-set hybrid methods, high-order discretizations for evolving interfaces, and MPI-GPU-accelerated solvers.
 
 **Wissenschaftlicher Mitarbeiter (Thermal Hydraulic and Severe Accident Code Developer)**  
 **Cooling Circuit Department (Abteilung Kühlkreislauf)**  
