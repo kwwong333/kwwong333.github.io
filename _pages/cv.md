@@ -39,9 +39,11 @@ Work experience
 **Dec 2019 – Feb 2022**
 
 - Developed models in the AC²/ATHLET and AC²/ATHLET-CD system codes for simulating thermohydraulic (TH) and severe accident (SA) phenomena.  
-- Investigated wall heat-flux partitioning and interfacial condensation to predict subcooled boiling, low-pressure flow instability, and critical heat flux in narrow rectangular channels.  
-- Implemented and validated a critical heat-flux (CHF) model for advanced reactor channel geometries.  
-- Built a mechanistic model for temporary retention and energy transfer of molten material at spacer-grid locations, including changes in material properties and reaction rates during eutectic interaction and nitride formation in BWR melt scenarios.
+- Tested and assessed wall heat-flux partitioning and interfacial condensation models for subcooled boiling and flow-instability prediction in pool-type research reactors.
+- Implemented and validated a dedicated critical heat flux (CHF) model for narrow rectangular duct geometries.
+- Developed a mechanistic model for temporary melt retention at spacer-grid locations, including energy transfer and structural failure criteria.
+- Implemented eutectic interaction and nitride formation models for boiling water reactor (BWR) melt progression, accounting for phase-diagram-based property variations and eutectic reaction kinetics.
+- Extended the thermal-structure coupling interface to solid-mechanics solvers, enabling external multiphysics coupling via a generic coupling library
 
 **Safety Analysis Intern**  
 **Deterministic Safety Department (Abteilung Sicherheit)**  
@@ -50,5 +52,5 @@ Work experience
 
 - Validated the TRACE-KKG analysis package against AREVA reference calculations for multiple Small Break Loss of Coolant Accident (SBLOCA) scenarios during Station Blackout (SBO).  
 - Assessed the effects of direct injection and emergency borated-water spraying on plant transient behaviour, contributing to potential future plant-modification strategies.  
-- Authored the internal safety report: *“Assessment of TRACE_KKG for LOCA scenarios under Station Blackout conditions without single failure.”*
+- Authored the safety report: *“Assessment of TRACE_KKG for LOCA scenarios under Station Blackout conditions without single failure.”*
 
