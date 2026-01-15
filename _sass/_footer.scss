@@ -21,7 +21,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: transparent;   // will now be dark because we changed the variable
-  border-top: 1px solid #010101; // will also be dark from variable change
+  border-top: 1px solid transparent; // will also be dark from variable change
 
   footer {
     @include clearfix;
