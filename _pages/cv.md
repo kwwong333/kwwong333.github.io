@@ -41,7 +41,7 @@ Work experience
 - Implemented, verified, and assessed the Sudo–Kaminaga critical heat flux (CHF) model for narrow rectangular duct geometries, enabling accurate CHF prediction in research reactor simulations.
 - Developed and validated a mechanistic model for temporary melt retention at spacer-grid locations, including coupled energy transfer, structural degradation, and failure criteria.
 - Implemented eutectic interaction and nitride formation models for boiling water reactor (BWR) melt progression, incorporating phase-diagram-based thermophysical properties and reaction kinetics; achieved significantly improved predictions of hydrogen generation and cladding temperature in simulations of the QUENCH-11 experiment.
-- Extended and verified the thermal–structural coupling interface to solid-mechanics solvers, enabling robust external multiphysics coupling through a generic coupling library.
+- Extended and verified the thermal–structural coupling interface to solid-mechanics solvers, enabling external multiphysics coupling through a generic coupling library.
 
 **Safety Analysis Intern**  
 **Deterministic Safety Department (Abteilung Sicherheit)**  
